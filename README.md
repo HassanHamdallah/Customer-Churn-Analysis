@@ -1,9 +1,3 @@
-# Customer Churn Analysis
-**Machine Learning & Data Science — Assignment 1**  
-Hassan Khaled (1220438) · Mohammad Omar (1221332)
-
----
-
 ## Overview
 
 This project performs end-to-end data preprocessing and exploratory data analysis (EDA) on a simulated customer dataset to identify early indicators of customer churn in a telecommunications context.
